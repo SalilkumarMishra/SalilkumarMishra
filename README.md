@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=salilkumarmishra&label=Profile%20views&color=0e75b6&style=flat" alt="salilkumarmishra" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=salilkumarmishra" alt="salilkumarmishra" /></a> </p>
-
 - 🔭 I’m currently working on **ecommerce website**
 
 - 🌱 I’m currently learning **DSA**
@@ -27,3 +25,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=salilkumarmishra&show_icons=true&locale=en" alt="salilkumarmishra" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=salilkumarmishra&" alt="salilkumarmishra" /></p>
+
